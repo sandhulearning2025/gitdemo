@@ -1,1 +1,4 @@
 this is my first text for git demo
+
+git remote set-url origin https://github.com/sandhulearning2025/gitdemo.git
+
